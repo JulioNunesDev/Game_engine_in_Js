@@ -1,0 +1,17 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+body{
+background-color: #444;
+}
+
+.boxCss{
+background-color: red;
+width: 50px;
+height: 50px;
+
+
+}
