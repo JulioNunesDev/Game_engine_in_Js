@@ -1,0 +1,13 @@
+{
+    "name": "seu-projeto",
+    "version": "1.0.0",
+    "description": "Descrição do seu projeto",
+    "type": "module", 
+    "scripts": {
+      "start": "node seu-arquivo-de-entrada.js"
+    },
+    "engines": {
+      "node": ">=14.0.0" 
+    }
+  }
+  
